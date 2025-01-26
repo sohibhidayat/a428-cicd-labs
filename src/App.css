@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.App-add {
+  text-align: center;
+  background-color: black;
+}
+
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 80px;
@@ -20,6 +25,16 @@
 
 .App-intro {
   font-size: large;
+}
+
+.App-paragraph {
+  font-size: x-larger;
+  color: white;
+  padding-bottom: 10px;
+}
+
+.App-idcamp {
+  border: solid 5px white;
 }
 
 @keyframes App-logo-spin {
